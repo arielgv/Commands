@@ -115,4 +115,6 @@ _A list of commonly used Git and Terminal commands_
 | `git cherry.pick [id]` | Take commit from other branches | Trae un commit especifico desde otra rama |
 | `git grep -n [word]` | Search words in the proyect | Busca la palabra especificada en todo el proyecto |
 
+### The list is incomplete but is usefull for the most common commands 
+
 
